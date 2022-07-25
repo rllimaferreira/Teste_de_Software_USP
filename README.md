@@ -38,8 +38,14 @@ Use este módulo para definir e aplicar uma (ou mais) técnicas de Teste para um
 # Técnicas de Teste Abordadas
 
 ## Teste Funcional
+- Identificar o contexto no qual a técnica de Teste Funcional está inserida.
+- Distinguir os principais critérios que compõem essa técnica de teste.
+- Aplicar a técnica de Teste Funcional e seus principais critérios para resolver casos.
 
 ## Teste Estrutural
+- Identificar o contexto no qual a técnica de Teste Estrutural está inserida.
+- Distinguir os principais critérios que compõem essa técnica de teste.
+- Aplicar a técnica de Teste Estrutural e seus principais critérios para resolver casos.
 
 ## Teste Baseado em Defeitos
 
